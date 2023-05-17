@@ -1,0 +1,63 @@
+\documentclass{article}
+\usepackage{graphicx}
+
+\title{Sichere Systeme}
+\author{Chris Liebsch}
+\date{April 2023}
+
+\begin{document}
+
+\maketitle
+\section{Notizen}
+
+\newpage
+
+\section{Einführung und Vorgehensmodelle}
+\subsection{Software}
+Computer programs, procedures, and possibly associated documentation and data pertaining to the operation of a computer system.
+
+\subsection{Softwaresystem}
+Ein System (oder Teilsystem), das aus Software besteht.
+
+\subsection{Produkt}
+Ein Produkt ist ein in sich abgeschlossenes, Ergebnis eines erfolgreich durchgeführten Projekts oder Herstellungsprozesses.
+
+\subsection{Softwareprodukt}
+Produkt, das aus Software besteht.
+
+\subsection{Besonderheiten Software}
+\begin{itemize}
+	\item immateriell
+	\item nicht durch physikalische Gesetze begrenzt
+	\item schwer zu vermessen
+	\item leicht änderbar
+	\item kein Verschleiß
+	\item ständiger Anpassungsdruck	
+	\item veraltet
+	\item keine Ersatzteile
+\end{itemize}
+
+\subsection{Eigenschaften Software}
+\subsubsection{Externe & interne Qualität}
+\begin{itemize}
+	\item Funktionalität
+	\item Zuverlässigkeit
+	\item Effizienz
+	\item Benutzbarkeit
+	\item Änderbarkeit
+	\item Portierbarkeit
+\end{itemize}
+
+\subsubsection{Gebrauchsqualität}
+\begin{itemize}
+	\item Effektivität
+	\item Produktivität
+	\item Sicherheit
+	\item Zufriedenheit
+\end{itemize}
+
+
+
+\newpage
+
+\end{document}

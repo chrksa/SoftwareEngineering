@@ -1,0 +1,44 @@
+Monster
+name Achim
+maxHP 80
+attack 15
+weight 10.0
+multi 1.0
+
+Monster
+name Achim II
+maxHP 120
+attack 25
+weight 42.7
+multi 1.5
+
+Monster
+name Achim der Unvollständige
+
+Monster
+name Achim der Verdrehte
+attack 25
+maxHP 120
+weight 42.7
+multi 1.5
+
+Monster
+name Achim der mit falschen Typen rumhängt
+maxHP 120.0
+attack 25
+weight 42.7
+multi 1.5
+
+Monster
+name Kunibert der Heiler
+maxHP 120
+attack -5
+weight 50.8
+multi 1.0
+
+Monster
+name Kunibert der Kaputte
+minHP 120
+attic -5
+eight 50.8
+mutli 1.0
